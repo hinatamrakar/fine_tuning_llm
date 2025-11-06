@@ -8,4 +8,4 @@ __pycache__/
 # Ignore local virtual environments (optional)
 rl1/
 venv/
-*.py
+ppomemory.py
